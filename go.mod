@@ -1,4 +1,4 @@
-module github.com/tj/node-prune
+module github.com/shivamkatyan/node-prune
 
 go 1.13
 
