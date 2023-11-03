@@ -93,7 +93,6 @@ var DefaultDirectories = []string{
 	"tests",
 	"powered-test",
 	"docs",
-	"doc",
 	".idea",
 	".vscode",
 	"website",
